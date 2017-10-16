@@ -1,0 +1,6 @@
+-   id: isort
+    name: isort
+    description: Run isort.
+    entry: isort
+    language: system
+    files: \.py$
