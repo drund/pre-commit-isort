@@ -2,5 +2,6 @@
     name: isort
     description: Run isort.
     entry: isort
-    language: system
+    language: python
+    language_version: python3
     files: \.py$
